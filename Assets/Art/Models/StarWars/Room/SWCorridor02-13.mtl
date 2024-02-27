@@ -1,0 +1,350 @@
+# Wavefront .mtl file  -  created by SpaceDraw
+
+# File created: 16-03-15, 12:58
+
+newmtl SWFloorLight
+Ns 15.6
+d 1.0
+Tr 0.0
+illum 2
+Ka 1.0 1.0 1.0 
+Kd 1.0 1.0 1.0 
+Ks 0.4745 0.4745 0.4745 
+Ke 1.0 1.0 1.0 
+map_Ka SWFloorLight.jpg
+map_Kd SWFloorLight.jpg
+
+newmtl SWPilar-01
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5294 0.5294 0.5294 
+Kd 0.5294 0.5294 0.5294 
+Ks 0.4705 0.4705 0.4705 
+Ke 0.2313 0.2313 0.2313 
+map_Ka SWPilar-01.jpg
+map_Kd SWPilar-01.jpg
+
+newmtl SWPilar-01Lights
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.6509 0.6509 0.6509 
+Kd 0.6509 0.6509 0.6509 
+Ks 1.0 1.0 0.77639997 
+Ke 1.0 1.0 0.8156 
+map_Ka SWPilar-01.jpg
+map_Kd SWPilar-01.jpg
+
+newmtl SWPilar-01B01
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B01.jpg
+map_Kd SWPilar-01B01.jpg
+
+newmtl SWPilar-01B02
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5294 0.5294 0.5294 
+Kd 0.5294 0.5294 0.5294 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B02.jpg
+map_Kd SWPilar-01B02.jpg
+
+newmtl SWPilar-01B03
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5294 0.5294 0.5294 
+Kd 0.5294 0.5294 0.5294 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B03.jpg
+map_Kd SWPilar-01B03.jpg
+
+newmtl SWPilar-01B04
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.2392 0.2392 0.2392 
+map_Ka SWPilar-01B04.jpg
+map_Kd SWPilar-01B04.jpg
+
+newmtl SWPilar-01B05
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B04.jpg
+map_Kd SWPilar-01B04.jpg
+
+newmtl SWPilar-01B06
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B06.jpg
+map_Kd SWPilar-01B06.jpg
+
+newmtl SWPilar-01B07
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B07.jpg
+map_Kd SWPilar-01B07.jpg
+
+newmtl SWPilar-01B08
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B08.jpg
+map_Kd SWPilar-01B08.jpg
+
+newmtl SWPilar-01B10
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5215 0.5215 0.5215 
+Kd 0.5215 0.5215 0.5215 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.23519999 0.23519999 0.23519999 
+map_Ka SWPilar-01B10.jpg
+map_Kd SWPilar-01B10.jpg
+
+newmtl SWPilar-02B02
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B02.jpg
+map_Kd SWPilar-02B02.jpg
+
+newmtl SWPilar-02Lights
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 1.0 1.0 1.0 
+Kd 1.0 1.0 1.0 
+Ks 0.48619998 0.48619998 0.48619998 
+Ke 1.0 0.98819995 0.88229996 
+map_Ka SWPilar-02.jpg
+map_Kd SWPilar-02.jpg
+
+newmtl SWPilar-02B10
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B10.jpg
+map_Kd SWPilar-02B10.jpg
+
+newmtl SWPilar-02B04
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B03.jpg
+map_Kd SWPilar-02B03.jpg
+
+newmtl SWPilar-02B05
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B05.jpg
+map_Kd SWPilar-02B05.jpg
+
+newmtl SWPilar-02B06
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B06.jpg
+map_Kd SWPilar-02B06.jpg
+
+newmtl SWPilar-02B07
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B07.jpg
+map_Kd SWPilar-02B07.jpg
+
+newmtl SWPilar-02B08
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B08.jpg
+map_Kd SWPilar-02B08.jpg
+
+newmtl SWPilar-02
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54899997 0.54899997 0.54899997 
+Kd 0.54899997 0.54899997 0.54899997 
+Ks 0.48619998 0.48619998 0.48619998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02.jpg
+map_Kd SWPilar-02.jpg
+
+newmtl SWFloor02
+Ns 15.6
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.5607 0.5607 0.5607 
+Kd 0.5607 0.5607 0.5607 
+Ks 0.4745 0.4745 0.4745 
+Ke 0.0 0.0 0.0 
+map_Ka SWFloor02.jpg
+map_Kd SWFloor02.jpg
+
+newmtl SWPilar-02B03
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B03.jpg
+map_Kd SWPilar-02B03.jpg
+
+newmtl SWPilar-02B01
+Ns 2.1000001
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.54499996 0.54499996 0.54499996 
+Kd 0.54499996 0.54499996 0.54499996 
+Ks 0.48229998 0.48229998 0.48229998 
+Ke 0.0 0.0 0.0 
+map_Ka SWPilar-02B01.jpg
+map_Kd SWPilar-02B01.jpg
+
+newmtl SWPilar-02Gold
+Ns 19.7
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.3058 0.3058 0.3058 
+Kd 0.3058 0.3058 0.3058 
+Ks 1.0 1.0 1.0 
+Ke 0.26659998 0.2588 0.26659998 
+map_Ka SWPilar-02.jpg
+map_Kd SWPilar-02.jpg
+
+newmtl Wall
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.498 0.498 0.498 
+Kd 0.498 0.498 0.498 
+Ks 0.498 0.498 0.498 
+Ke 0.0 0.0 0.0 
+map_Ka Wall.jpg
+map_Kd Wall.jpg
+
+newmtl Door
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 0.498 0.498 0.498 
+Kd 0.498 0.498 0.498 
+Ks 0.498 0.498 0.498 
+Ke 0.0 0.0 0.0 
+map_Ka Door.jpg
+map_Kd Door.jpg
+
+newmtl Back
+Ns 32.4
+d 1.0
+Tr 0.0
+illum 2
+Ka 1.0 1.0 1.0 
+Kd 1.0 1.0 1.0 
+Ks 0.5137 0.5137 0.5137 
+Ke 0.9647 0.97639996 0.949 
+map_Ka Back.jpg
+map_Kd Back.jpg
+
+newmtl PureWhite
+Ns 20.0
+d 1.0
+Tr 0.0
+illum 2
+Ka 1.0 1.0 1.0 
+Kd 1.0 1.0 1.0 
+Ks 0.49409997 0.49409997 0.49409997 
+Ke 1.0 1.0 1.0 
+
