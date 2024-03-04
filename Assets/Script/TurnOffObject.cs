@@ -5,7 +5,6 @@ using UnityEngine;
 public class TurnOffObject : MonoBehaviour
 {
     public GameObject GOTurnOff;
-    private bool Activate = false;
 
 
     public void TurnOn() {
