@@ -31,8 +31,4 @@ public class CanonBall : MonoBehaviour
         Destroy(ObjectEnteringSocket.transform.gameObject);
         
     }
-
-    //public void DeleteObject() {
-    //    gameObject.SetActive = false;
-    //}
 }
