@@ -13,4 +13,20 @@ public class Enemy : MonoBehaviour
     {
         agent.SetDestination(player.position);
     }
+
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.CompareTag("KillVolume"))
+        {
+            KillEnemy();
+        }
+    }
+
+    public void KillEnemy()
+    {
+        GameManager.instance.EnemiesAlive--;
+        print("Enemies left " + GameManager.instance.EnemiesAlive);
+        Destroy(gameObject);
+    }
 }
