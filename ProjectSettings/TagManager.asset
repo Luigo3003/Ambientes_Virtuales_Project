@@ -7,6 +7,7 @@ TagManager:
   - Saber
   - CanonCharger
   - KillVolume
+  - Enemy
   layers:
   - Default
   - TransparentFX

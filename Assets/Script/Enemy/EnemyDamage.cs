@@ -9,6 +9,7 @@ public class EnemyDamage : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            print("Entro al player");
             other.transform.position = SpawnPointPlayer.position;
             GameManager.instance.Wave = 1;
             GameManager.instance.WaveActive = false;

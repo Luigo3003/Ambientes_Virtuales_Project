@@ -3,18 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class RayController : MonoBehaviour {
-    [SerializeField] GameObject LeftTeleportation;
-    [SerializeField] GameObject RightTeleportation;
+public class RayController : MonoBehaviour
+{
+    [SerializeField] GameObject leftTeleportation, rightTeleportation;
 
-    [SerializeField] InputActionProperty LeftActivate;
-    [SerializeField] InputActionProperty RightActivate;
+    [SerializeField] InputActionProperty leftActivate, rightActivate;
 
-    [SerializeField] InputActionProperty LeftCancel;
-    [SerializeField] InputActionProperty RightCancel;
+    [SerializeField] InputActionProperty leftCancel, rightCancel;
+    
     void Update()
     {
-        LeftTeleportation.SetActive(LeftCancel.action.ReadValue<float>() == 0 && LeftActivate.action.ReadValue<float>() > 0.1);
-        RightTeleportation.SetActive(RightCancel.action.ReadValue<float>() == 0 && RightActivate.action.ReadValue<float>() > 0.1);
+        leftTeleportation.SetActive(leftCancel.action.ReadValue<float>() == 0 && leftActivate.action.ReadValue<float>() > 0.1);    
+        rightTeleportation.SetActive(rightCancel.action.ReadValue<float>() == 0 && rightActivate.action.ReadValue<float>() > 0.1);    
     }
 }
