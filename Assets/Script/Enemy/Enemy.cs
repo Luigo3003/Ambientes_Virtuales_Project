@@ -8,6 +8,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] NavMeshAgent agent;
     [SerializeField] Transform player;
 
+    
     private void Start()
     {
         player = GameObject.FindWithTag("Player").transform;
