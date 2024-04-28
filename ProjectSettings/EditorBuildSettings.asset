@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 2e5f8124f0b842c4dabc45611b78dc50
+  - enabled: 1
+    path: Assets/Scenes/PiratesGame.unity
+    guid: ac7070f168a27584d82fd662cdd2ae2a
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9c224f5584d8014782166cad8b57d74, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: da8ee6358d0a71d41a0cca0fad7111a2, type: 2}

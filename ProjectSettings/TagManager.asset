@@ -8,6 +8,7 @@ TagManager:
   - CanonCharger
   - KillVolume
   - Enemy
+  - Ship
   layers:
   - Default
   - TransparentFX
